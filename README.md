@@ -94,12 +94,12 @@ Clone o repositório para o seu computador, para estudos em Java:
 
 |    Função    | Nome                     |                     GitHub                     |                    Linkedin                    |
 | :----------: | :----------------------- | :--------------------------------------------: | :--------------------------------------------: |
-| Scrum Master | Allan Cristian de Avelar Carneiro|   [GitHub](https://github.com/AllanCristian27)    | [Linkedin](https://www.linkedin.com/in//)|
-|      PO      | Felipe Pereira   |    [GitHub](https://github.com/felipereira10)       | [Linkedin](https://www.linkedin.com/in/allancristian95/)|
+| Scrum Master | Allan Cristian de Avelar Carneiro|   [GitHub](https://github.com/AllanCristian27)    | [Linkedin](https://www.linkedin.com/in/allancristian95/)|
+|      PO      | Felipe Pereira   |    [GitHub](https://github.com/felipereira10)       | [Linkedin](https://www.linkedin.com/in/felipe-pereira-638370172/)|
 |   Dev Team   | Erik Zanetti Ferraz      |    [GitHub](https://github.com/ErikZFerraz)    | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
 |   Dev Team   | Fabio Eyki  |    [GitHub](https://github.com/)     | [Linkedin](https://www.linkedin.com/in//) |
-|   Dev Team   | Pablo Rafael Silva |    [GitHub](https://github.com/PabloEscobar900) | [Linkedin](https://www.linkedin.com/in/pablo-rafael-silva-9ab4771ba/)|
 |   Dev Team   | Luiz Henrique Souza Silva |    [GitHub](https://github.com/LuizHenrique435) | [Linkedin](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)|
+|   Dev Team   | Pablo Rafael Silva |    [GitHub](https://github.com/PabloEscobar9000) | [Linkedin](https://www.linkedin.com/in/pablo-rafael-silva-9ab4771ba/)|
 </div>
 
 
