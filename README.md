@@ -18,7 +18,7 @@
 </div>
 
 
-<h3 align="center" dir="auto">Repositório do projeto de API do 2º semestre do Code Wave, da 1º turma de ADS da Fatec SJC 2022.</h3>
+<h3 align="center" dir="auto">Repositório do projeto de API do 2º semestre do Code Wave, da 2º turma de ADS da Fatec SJC 2023.</h3>
 
 <div align="center" dir="auto">
 <h3>### Entregas de Sprints</h3>
@@ -46,9 +46,13 @@ Clone o repositório para o seu computador, para estudos em Java:
 
 <br>
 
-<h2 align="center">Tecnologias</h2>
+<h1 align="center" dir="auto"><a id="user-content--sprint-1-08032021-a-28032021-" class="anchor" aria-hidden="true" href="#-sprint-1-08032021-a-28032021-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tecnologias<br> <a href="" target="_blank" align="center"></a> </h1>
 
-![Tecnologias](https://user-images.githubusercontent.com/1.png)
+
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"><img align="center" alt="Ally-Java" height="60" width="80" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Ally-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
+</div>
 
 
 
@@ -97,7 +101,7 @@ Clone o repositório para o seu computador, para estudos em Java:
 | Scrum Master | Allan Cristian de Avelar Carneiro|   [GitHub](https://github.com/AllanCristian27)    | [Linkedin](https://www.linkedin.com/in/allancristian95/)|
 |      PO      | Felipe Pereira   |    [GitHub](https://github.com/felipereira10)       | [Linkedin](https://www.linkedin.com/in/felipe-pereira-638370172/)|
 |   Dev Team   | Erik Zanetti Ferraz      |    [GitHub](https://github.com/ErikZFerraz)    | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
-|   Dev Team   | Fabio Eyki  |    [GitHub](https://github.com/)     | [Linkedin](https://www.linkedin.com/in//) |
+|   Dev Team   | Fabio Eyki  |    [GitHub](https://github.com/llWinter1z)     | [Linkedin](https://www.linkedin.com/in/fabio-eyki-misaki-fernandes-489865251/) |
 |   Dev Team   | Luiz Henrique Souza Silva |    [GitHub](https://github.com/LuizHenrique435) | [Linkedin](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)|
 |   Dev Team   | Pablo Rafael Silva |    [GitHub](https://github.com/PabloEscobar9000) | [Linkedin](https://www.linkedin.com/in/pablo-rafael-silva-9ab4771ba/)|
 </div>
