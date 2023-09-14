@@ -69,7 +69,7 @@ Clone o repositório para o seu computador, para estudos em Java:
 <h2 align="center" dir="auto"><a id="user-content-pencil-levantamento-de-requisitos" class="anchor" aria-hidden="true" href="#pencil-levantamento-de-requisitos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Levantamento de Requisitos</h2>
 <p dir="auto">Antes de desenvolver um projeto é necessário definir os desejos do cliente, organizá-los de acordo com suas prioridades e documentá-los utilizando técnicas de engenharia de software. Para esse levantamento de requisitos, o Product Owner do grupo manteve contato com o cliente para perguntar quais eram suas necessidades, a fim de criar um plano de ação que atendesse o mais próximo possível de seus requisitos. Dessa forma, é criado o backlog do produto, que contém suas principais funções e funcionalidades, bem como o backlog do sprint e histórias de usuários, que são itens complementares que auxiliam na organização da equipe em relação às tarefas a serem desenvolvidas.</p>
 
-<h3><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png"></g-emoji> Para verificar os backlogs das sprints e do produto, <a href="https://docs.google.com/spreadsheets/d/1KEpwnI85trRT_4ub3DmxdunUp8wq5imWWMSLXApkoH4/edit#gid=0">clique aqui</a>.</h3>
+<h3><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png"></g-emoji> Para verificar os backlogs das sprints e do produto, <a href="https://docs.google.com/spreadsheets/d/1KE">clique aqui</a>.</h3>
 </ul>
 
 <p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
@@ -101,7 +101,7 @@ Clone o repositório para o seu computador, para estudos em Java:
 | Scrum Master | Allan Cristian de Avelar Carneiro|   [GitHub](https://github.com/AllanCristian27)    | [Linkedin](https://www.linkedin.com/in/allancristian95/)|
 |      PO      | Felipe Pereira   |    [GitHub](https://github.com/felipereira10)       | [Linkedin](https://www.linkedin.com/in/felipe-pereira-638370172/)|
 |   Dev Team   | Erik Zanetti Ferraz      |    [GitHub](https://github.com/ErikZFerraz)    | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
-|   Dev Team   | Fabio Eyki  |    [GitHub](https://github.com/llWinter1z)     | [Linkedin](https://www.linkedin.com/in/fabio-eyki-misaki-fernandes-489865251/) |
+|   Dev Team   | Fabio Eyki Misaki Fernandes  |    [GitHub](https://github.com/llWinter1z)     | [Linkedin](https://www.linkedin.com/in/fabio-eyki-misaki-fernandes-489865251/) |
 |   Dev Team   | Luiz Henrique Souza Silva |    [GitHub](https://github.com/LuizHenrique435) | [Linkedin](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)|
 |   Dev Team   | Pablo Rafael Silva |    [GitHub](https://github.com/PabloEscobar9000) | [Linkedin](https://www.linkedin.com/in/pablo-rafael-silva-9ab4771ba/)|
 </div>
