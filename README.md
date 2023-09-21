@@ -13,9 +13,9 @@
 
   <h1 align="center" dir="auto"><a id="user-content--sprint-1-08032021-a-28032021-" class="anchor" aria-hidden="true" href="#-sprint-1-08032021-a-28032021-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Code Wave API 2 <br> <a href="" target="_blank" align="center"></a> </h1> <br>
 
-<div align="center"  dir="auto">
+<!--<div align="center"  dir="auto">
 <img id="logo" src="docs/logo.png" alt="logo" width=400px>
-</div>
+</div>-->
 
 
 <h3 align="center" dir="auto">Repositório do projeto de API do 2º semestre do Code Wave, da 2º turma de ADS da Fatec SJC 2023.</h3>
@@ -44,7 +44,7 @@ Clone o repositório para o seu computador, para estudos em Java:
 <h2 align="center" dir="auto"><a id="user-content-dart-objetivos-da-sprint" class="anchor" aria-hidden="true" href="#dart-objetivos-da-sprint"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">💎</g-emoji>O Projeto</h2>
 
 
-![Projeto](logo.png)
+<!--![Projeto](logo.png)-->
 
 <br>
 
@@ -53,16 +53,20 @@ Clone o repositório para o seu computador, para estudos em Java:
 
 
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"><img align="center" alt="Ally-Java" height="60" width="80" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Ally-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"><img align="center" alt="Ally-Java" height="80" width="80" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Ally-Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><img align="center" alt="Ally-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><img align="center" alt="Ally-Js" height="110" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img align="center" alt="Ally-Js" height="80" width="80" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="eclipse" style="max-width: 100%;"></a>
+
 </div>
+
 
 
 
 <span id="user-content-objetivos">
 <h2 align="center" dir="auto"><a id="user-content-dart-objetivos-da-sprint" class="anchor" aria-hidden="true" href="#dart-objetivos-da-sprint"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">🎯</g-emoji> Objetivos da Sprint</h2>
 
-<br>
 
 |    Kick-off 24/08    | Sprint 1: 24/09 | Sprint 2: 02/10 | Sprint 3: 16/10 | Sprint 4: 06/11 |
 | :----------: | :----------: | :----------: | :----------: | :----------: |
@@ -101,7 +105,7 @@ Clone o repositório para o seu computador, para estudos em Java:
 
 <h2>Equipe<h2>
   
-![API Equipe](logo.png)
+<!--![API Equipe](logo.png)-->
 
 |    Função    | Nome                     |                     GitHub                     |                    Linkedin                    |
 | :----------: | :----------------------- | :--------------------------------------------: | :--------------------------------------------: |
