@@ -61,7 +61,6 @@ Clone o repositório para o seu computador, para estudos em Java:
 
 <a target="_blank" rel="noopener noreferrer nofollow"><img align="center" alt="Ally-Js" height="80" width="80" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="eclipse" style="max-width: 100%"></a>
 
-<a target="_blank" rel="noopener noreferrer nofollow"><img align="center" alt="Ally-Js" height="80" width="80" src="https://www.iconsdb.com/icons/preview/caribbean-blue/github-11-xxl.png" alt="eclipse" style="max-width: 100%;"></a> 
 </div>
 
 
