@@ -45,7 +45,7 @@ Clone o repositório para o seu computador, para estudos em Java:
 <h3 align="center" dir="auto">É um assistente virtual que responde perguntas de acordo com o seu documento!</h3>
 
 <div align="center"  dir="auto">
-<img id="PROTOTIPO" src="Front-end/src/to_readme/PROTOTIPO.png" alt="PROTOTIPO" width=500px height=475px>
+<img id="PROTOTIPO" src="Front-end/src/to_readme/PROTOTIPO.png" alt="PROTOTIPO" width=855px height=650px>
 </div>
 
 <br>
@@ -90,7 +90,7 @@ Clone o repositório para o seu computador, para estudos em Java:
 <p dir="auto">Antes de desenvolver um projeto é necessário definir os desejos do cliente, organizá-los de acordo com suas prioridades e documentá-los utilizando técnicas de engenharia de software. Para esse levantamento de requisitos, o Product Owner do grupo manteve contato com o cliente para perguntar quais eram suas necessidades, a fim de criar um plano de ação que atendesse o mais próximo possível de seus requisitos. Dessa forma, é criado o backlog do produto, que contém suas principais funções e funcionalidades, bem como o backlog do sprint e histórias de usuários, que são itens complementares que auxiliam na organização da equipe em relação às tarefas a serem desenvolvidas.</p>
 
 <div align="center"  dir="auto">
-<img id="Product-Backlog" src="Front-end/src/to_readme/Product-Backlog.png" alt="Product-Backlog" width=500px height=300px>
+<img id="Product-Backlog" src="Front-end/src/to_readme/Product-Backlog.png" alt="Product-Backlog" width=1357px height=180px>
 </div>
 
 <h3><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png"></g-emoji> Para verificar os backlogs das sprints e do produto, <a href="https://docs.google.com/spreadsheets/d/1KvwlwGRIPZ75gzy7QbZYBHCef1GITrbWQQUvTGpjIrk/edit#gid=434149288">clique aqui</a>.</h3>
