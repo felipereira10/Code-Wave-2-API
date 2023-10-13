@@ -13,9 +13,11 @@ import static dev.langchain4j.data.document.FileSystemDocumentLoader.loadDocumen
 
 public class Main {
     public static void main(String[] args) {
-        Document document = loadDocument(toPath("/text.txt"));
-        System.out.println(loadIntoHugging(document,"Who is Charlie?"));
+//        Document document = loadDocument(toPath(file));
+//        System.out.println(loadIntoHugging(document,"Who is Charlie?"));
 
+        ImportDocument importDocument = new ImportDocument();
+        importDocument.setVisible(true);
 
         }
 }
