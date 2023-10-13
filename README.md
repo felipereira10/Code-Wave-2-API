@@ -27,7 +27,7 @@ Cada entrega foi realizada a partir da criação de uma **tag**. Observe a rela�
 | Sprint| Tag | Lançamento | Status | Histórico |
 |:-----:|:-------------:|:----------:|:---------:|:---------:|
 | 01 | [sprint-01](https://github.com/felipereira10/Code-Wave-2-API/) | 24/09/2023 | Entregue | [ver relatório][(https://github.com/felipereira10/Code-Wave-2-API/README.md)] |
-
+| 02 | [sprint-02](https://github.com/felipereira10/Code-Wave-2-API/) | 15/10/2023 | A entregar | [ver relatório][(https://github.com/felipereira10/Code-Wave-2-API/README.md)] |
 
 → [Voltar ao topo](#topo)
 </div>
